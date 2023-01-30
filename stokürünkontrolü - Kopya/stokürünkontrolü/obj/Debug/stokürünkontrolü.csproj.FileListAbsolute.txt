@@ -1,0 +1,29 @@
+D:\USB Sürücüsü\_\NTP\stokürünkontrolü\stokürünkontrolü\bin\Debug\stokürünkontrolü.exe.config
+D:\USB Sürücüsü\_\NTP\stokürünkontrolü\stokürünkontrolü\bin\Debug\stokürünkontrolü.exe
+D:\USB Sürücüsü\_\NTP\stokürünkontrolü\stokürünkontrolü\bin\Debug\stokürünkontrolü.pdb
+D:\USB Sürücüsü\_\NTP\stokürünkontrolü\stokürünkontrolü\obj\Debug\stokürünkontrolü.FrmTanımla.resources
+D:\USB Sürücüsü\_\NTP\stokürünkontrolü\stokürünkontrolü\obj\Debug\stokürünkontrolü.Properties.Resources.resources
+D:\USB Sürücüsü\_\NTP\stokürünkontrolü\stokürünkontrolü\obj\Debug\stokürünkontrolü.FrmRapor.resources
+D:\USB Sürücüsü\_\NTP\stokürünkontrolü\stokürünkontrolü\obj\Debug\stokürünkontrolü.csproj.GenerateResource.cache
+D:\USB Sürücüsü\_\NTP\stokürünkontrolü\stokürünkontrolü\obj\Debug\stokürünkontrolü.csproj.CoreCompileInputs.cache
+D:\USB Sürücüsü\_\NTP\stokürünkontrolü\stokürünkontrolü\obj\Debug\stokürünkontrolü.exe
+D:\USB Sürücüsü\_\NTP\stokürünkontrolü\stokürünkontrolü\obj\Debug\stokürünkontrolü.pdb
+D:\USB Sürücüsü\_\NTP\stokürünkontrolü\stokürünkontrolü\obj\Debug\stokürünkontrolü.FrmGiriş.resources
+D:\USB Sürücüsü\_\NTP\stokürünkontrolü\stokürünkontrolü\obj\Debug\stokürünkontrolü.FrmAna.resources
+D:\USB Sürücüsü\_\NTP\stokürünkontrolü\stokürünkontrolü\obj\Debug\stokürünkontrolü.FrmÇıkış.resources
+D:\USB Sürücüsü\_\NTP\stokürünkontrolü\stokürünkontrolü\obj\Debug\stokürünkontrolü.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\stokürünkontrolü\stokürünkontrolü\bin\Debug\stokürünkontrolü.exe.config
+C:\Users\user\OneDrive\Masaüstü\stokürünkontrolü\stokürünkontrolü\bin\Debug\stokürünkontrolü.exe
+C:\Users\user\OneDrive\Masaüstü\stokürünkontrolü\stokürünkontrolü\bin\Debug\stokürünkontrolü.pdb
+C:\Users\user\OneDrive\Masaüstü\stokürünkontrolü\stokürünkontrolü\obj\Debug\stokürünkontrolü.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\stokürünkontrolü\stokürünkontrolü\obj\Debug\stokürünkontrolü.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Masaüstü\stokürünkontrolü\stokürünkontrolü\obj\Debug\stokürünkontrolü.FrmAna.resources
+C:\Users\user\OneDrive\Masaüstü\stokürünkontrolü\stokürünkontrolü\obj\Debug\stokürünkontrolü.FrmGiriş.resources
+C:\Users\user\OneDrive\Masaüstü\stokürünkontrolü\stokürünkontrolü\obj\Debug\stokürünkontrolü.FrmTanımla.resources
+C:\Users\user\OneDrive\Masaüstü\stokürünkontrolü\stokürünkontrolü\obj\Debug\stokürünkontrolü.FrmÇıkış.resources
+C:\Users\user\OneDrive\Masaüstü\stokürünkontrolü\stokürünkontrolü\obj\Debug\stokürünkontrolü.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\stokürünkontrolü\stokürünkontrolü\obj\Debug\stokürünkontrolü.FrmRapor.resources
+C:\Users\user\OneDrive\Masaüstü\stokürünkontrolü\stokürünkontrolü\obj\Debug\stokürünkontrolü.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Masaüstü\stokürünkontrolü\stokürünkontrolü\obj\Debug\stokürünkontrolü.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\stokürünkontrolü\stokürünkontrolü\obj\Debug\stokürünkontrolü.exe
+C:\Users\user\OneDrive\Masaüstü\stokürünkontrolü\stokürünkontrolü\obj\Debug\stokürünkontrolü.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stokürünkontrolü", "stokürünkontrolü\stokürünkontrolü.csproj", "{3A7C7D34-E2D8-4C37-AF84-D2340D41772F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A7C7D34-E2D8-4C37-AF84-D2340D41772F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A7C7D34-E2D8-4C37-AF84-D2340D41772F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A7C7D34-E2D8-4C37-AF84-D2340D41772F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A7C7D34-E2D8-4C37-AF84-D2340D41772F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F8E6E72-60D8-4F8E-91D4-76106E3E3E3D}
+	EndGlobalSection
+EndGlobal
